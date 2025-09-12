@@ -10,9 +10,9 @@ The study aims to identify **operational inefficiencies, payment challenges, inv
 
 ## 👤 Submitted By
 
-**Name:** Akshit Mittal
-**Roll No:** 23f2004636
-**Program:** IITM BS Degree Program, Indian Institute of Technology, Madras
+- **Name:** Akshit Mittal
+- **Roll No:** 23f2004636
+- **Program:** IITM BS Degree Program, Indian Institute of Technology, Madras
 
 ---
 
