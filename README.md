@@ -20,12 +20,12 @@ The study aims to identify **operational inefficiencies, payment challenges, inv
 
 The project has been developed in **three stages**:
 
-### 1. Proposal Report
+### 1. Proposal Report (85/100)
 
 * Introduced **organization background, problem statements, and expected outcomes**.
 * Highlighted challenges such as **overstocking, digital payment resistance, poor credit management, manpower shortage, and limited marketing**.
 * Outlined **problem-solving approach** with inventory optimization, digital payment adoption, systematic credit policies, and marketing improvements.
-* **TA Remarks:**
+* **TA Remarks for scope of improvement:**
 
   * Executive summary should include a short note on analysis methods.
   * Add business turnover in background.
@@ -35,12 +35,12 @@ The project has been developed in **three stages**:
 
 ---
 
-### 2. Mid-Term Report
+### 2. Mid-Term Report (76/100)
 
 * Data collected from **August 5, 2024, to October 31, 2024**, recorded in Excel (clarification needed whether manually entered or digital export).
 * Initial descriptive statistics prepared.
 * Preliminary analysis with **box plots, histograms, and pie charts** to highlight sales patterns and outliers.
-* **TA Remarks:**
+* **TA Remarks for scope of improvement:**
 
   * Executive summary should reflect **data collected, methods used, and findings**, not just proposal summary.
   * Descriptive statistics should be presented in **tables with interpretations**.
@@ -49,7 +49,7 @@ The project has been developed in **three stages**:
 
 ---
 
-### 3. End-Term Report
+### 3. End-Term Report (85/100)
 
 * Advanced analysis performed using **time-series graphs, bar charts, and line charts** to study sales trends, seasonal demand, and cash flow constraints.
 * Extracted sales information directly from **BusyWin management software** (requires specifying exact data fields used).
@@ -61,7 +61,7 @@ The project has been developed in **three stages**:
   * Hiring seasonal staff during peak periods.
   * Store layout optimization and vertical shelving.
   * Low-cost marketing via WhatsApp & local pamphlets.
-* **TA Remarks:**
+* **TA Remarks for scope of improvement:**
 
   * Executive summary needs **specific metrics** (e.g., % cash flow constraint, financial loss).
   * Analysis methods must explain **how each graph type was applied**.
