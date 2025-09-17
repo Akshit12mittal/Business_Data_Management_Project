@@ -2,8 +2,9 @@
 
 ## 📌 Project Overview
 
-This project, undertaken as part of the **Business Data Management (BDM) Capstone Project** at **IIT Madras BS Degree Program**, focuses on analyzing and improving the operations of **Jain Seed Store**, a family-owned agrochemical retail shop in Dera Bassi, Punjab.
+- **Project Grade:** 82/100 (A grade)
 
+This project, undertaken as part of the **Business Data Management (BDM) Capstone Project** at **IIT Madras BS Degree Program**, focuses on analyzing and improving the operations of **Jain Seed Store**, a family-owned agrochemical retail shop in Dera Bassi, Punjab.
 The study aims to identify **operational inefficiencies, payment challenges, inventory mismatches, and marketing limitations**, and propose **data-driven growth strategies** for sustained profitability.
 
 ---
